@@ -1,7 +1,3 @@
-//------------------------//
-// ZOOM FUNCTION CONTROLS //
-//------------------------//
-
     var zoom = 1;
     var zoomStep = 0.1;
 
