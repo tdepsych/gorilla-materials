@@ -1,3 +1,8 @@
+<script>
+//------------------------//
+// ZOOM FUNCTION CONTROLS //
+//------------------------//
+
     var zoom = 1;
     var zoomStep = 0.1;
 
@@ -12,3 +17,4 @@
         document.getElementById("container").style.transform = "scale(" + zoom + ")";
       }
     });
+</script>
